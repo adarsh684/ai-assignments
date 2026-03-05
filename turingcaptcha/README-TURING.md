@@ -79,28 +79,16 @@ sup
 watching youtube lol
 what about you
 haha yeah
-
-# Running the Program
-
 ```
-./turing
+Statistics
 ```
-
-The program will repeatedly run evaluation rounds until the user chooses to exit.
-
----
-
-# Statistics
-
 The program tracks:
 
 * **Total Evaluations** – number of tests performed
 * **AI Fooling Rate** – percentage of times the user incorrectly identified the AI
-
+```
 Formula:
 
-```
+
 AI Fooling Rate = (AI Fooled / Total Tests) × 100
 ```
-
----
