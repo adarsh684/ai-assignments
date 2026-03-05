@@ -74,19 +74,19 @@ Opener → Response → Follow-up → Casual Ending
 
 Example generated AI conversation:
 
-```
+
 sup
 watching youtube lol
 what about you
 haha yeah
-```
-Statistics
-```
+
+#Statistics
+
 The program tracks:
 
 * **Total Evaluations** – number of tests performed
 * **AI Fooling Rate** – percentage of times the user incorrectly identified the AI
-```
+
 Formula:
 
 
